@@ -1,0 +1,11 @@
+{
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+  "eslint.codeActionsOnSave.rules": [
+		"react/jsx-boolean-value",
+		"react/jsx-sort-props"
+	],
+  "eslint.enable": true,
+	"eslint.debug": true
+}
